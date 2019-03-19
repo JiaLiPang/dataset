@@ -22,8 +22,8 @@ https://www.kaggle.com/joricvansprings/jorics-signed-networks
 有正负符号的社会网络数据集。  
 每个网络有source,target,weight属性，分别代表起点，终点，正负性（1代表正，-1代表负）
 ### 属性
-|属性|值|
-|----|-----|
+|属性|值|值|值|
+|----|-----|-----|-----|
 |网络|Epinions|Slashdot|Wikipedia|
 |类型|有向|有向|有向|
 |节点数|131828|82140|7118|
