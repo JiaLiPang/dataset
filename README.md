@@ -14,7 +14,6 @@ citeseer记录了论文之间引用或被引用信息。
 |标签数|6|
 |平均度|3.52|
   
-# 数据集共享
 ## Epinions, Slashdot, Wikipedia数据集（节点ID处理过）
 ### 链接
 https://www.kaggle.com/joricvansprings/jorics-signed-networks
